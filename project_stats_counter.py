@@ -122,6 +122,7 @@ TEXT_EXTENSIONS = {
         ".svg",
         ".rss",
         ".atom",
+        ".org"
     ],
     "Documentation": [
         ".doc",

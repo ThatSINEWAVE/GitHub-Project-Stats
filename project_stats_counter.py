@@ -99,6 +99,7 @@ TEXT_EXTENSIONS = {
     ],
     "Markup": [
         ".md",
+        ".org",
         ".rst",
         ".txt",
         ".tex",
